@@ -1,4 +1,4 @@
-# basic-digital-clock
+# basic-digital-clock.py
 # A simple 12-hour digital clock in Python using for loop and user input.
 
 import time
@@ -8,3 +8,6 @@ for i in range(C):
     print(current_time)
     time.sleep(1)
 print("Clock band ho gayi!!!")
+
+# Agar input time se pahle clock ko rokna hai to Terminal me click karke (Ctrl + C) karenge to clock ruk jayegiii
+ 
