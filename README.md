@@ -26,6 +26,7 @@ print("Clock band ho gayi!!!")
 ```
 
 ## Output
+```
 Kitne second tak clock chalani hai? 5
 10:30:15 AM
 10:30:16 AM
@@ -33,6 +34,7 @@ Kitne second tak clock chalani hai? 5
 10:30:18 AM
 10:30:19 AM
 Clock band ho gayi!!!
+```
 
 ## Author
 Ayush Singh https://github.com/ayush893singh
